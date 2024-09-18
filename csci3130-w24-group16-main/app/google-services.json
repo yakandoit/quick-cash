@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820956826073",
+    "project_id": "quickcash-bf63f",
+    "storage_bucket": "quickcash-bf63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820956826073:android:3b13829838f384e739f1c8",
+        "android_client_info": {
+          "package_name": "com.group16.quickcash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5ZZzVIE8qkyUq4ZEubIZTu7ocK4iyAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
